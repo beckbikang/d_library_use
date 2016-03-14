@@ -1,0 +1,11 @@
+{
+	"name": "testmysql",
+	"description": "test mysql connect.",
+	"authors": ["cabing_2005@126.com"],
+	"homepage": "http://my.oschina.net/u/218155/blog?catalog=3451757",
+	"license": "GPL-2.0",
+	"dependencies": {
+		"vibe-d": "~>0.7.17",
+		"mysql-native" :"~>0.1.3",
+	}
+}
